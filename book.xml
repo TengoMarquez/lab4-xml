@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <book id="b001">
+    <title>Computer Systems: A Programmer's Perspective</title>
+    <author>Randal E. Bryant, David R. O'Hallaron</author>
+    <price>99.00</price>
+  </book>
+  <book id="b002">
+    <title>Computer Networking: A Top-Down Approach</title>
+    <author>James F. Kurose, Keith W. Ross</author>
+    <price>88.50</price>
+  </book>
+  <book id="b003">
+    <title>Introduction to Algorithms</title>
+    <author>Thomas H. Cormen, et al.</author>
+    <price>120.00</price>
+  </book>
+</catalog>
